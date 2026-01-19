@@ -8,7 +8,7 @@ Committed to continuous learning, writing clean and reliable code, and strengthe
 
 
 ## My Github Stats
-[!Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Sairaj-25)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sairaj-25)
 
 <!--
 **Sairaj-25/Sairaj-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
