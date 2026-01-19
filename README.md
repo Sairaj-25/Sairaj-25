@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there 👋 I'm Sairaj Jadhav.
+
+💬 Knowledge of full-stack web development with exposure to data science and machine learning concepts.
+Focused on practicing, failing, and improving continuously while working on real-time projects.
+Committed to continuous learning, writing clean and reliable code, and strengthening skills for scalable, real-world software development.
+
+🌱 I’m currently learning Data Science and Machine Learning.
+
+
+## My Github Stats
+[!Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Sairaj-25)
 
 <!--
 **Sairaj-25/Sairaj-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
