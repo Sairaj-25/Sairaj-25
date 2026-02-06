@@ -1,30 +1,67 @@
-## Hi there 👋 I'm Sairaj Jadhav.
+<h1 align="center">Hi 👋, I'm Sairaj Jadhav</h1>
+<h3 align="center">Full-Stack Developer | Data Science & Machine Learning Enthusiast</h3>
 
-💬 Knowledge of full-stack web development with exposure to data science and machine learning concepts.
-Focused on practicing, failing, and improving continuously while working on real-time projects.
-Committed to continuous learning, writing clean and reliable code, and strengthening skills for scalable, real-world software development.
+<p align="center">
+  <em>
+    Building real-world projects, learning by doing, and improving every day.
+  </em>
+</p>
 
-🌱 I’m currently learning Data Science and Machine Learning.
+---
+
+## 🚀 About Me
+
+- 💻 Full-stack web developer with strong backend focus  
+- 📊 Exploring **Data Science & Machine Learning**  
+- 🧠 Believe in *practice → failure → improvement*  
+- ⚙️ Love writing clean, scalable, and reliable code  
+
+---
+
+## 🧠 Currently Learning
+- 
+- 
+-  
+- 
+
+---
+
+## 🔧 My Favorite Tools & Technologies
+
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="35"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="35"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio_code/visualstudio_code-original.svg" width="35"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="35"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="35"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="35"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="35"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/aws-original.svg" width="35"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" width="35"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="35"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="35"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="35"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="35"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="35"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="35"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="35"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="35"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="35"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="35"/>
+</p>
+
+---
 
 
-## My Github Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sairaj-25)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sairaj-25&show_icons=true)
+## My Github Stats 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sairaj-25) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sairaj-25&show_icons=true) 
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sairaj-25&show_icons=true)
 
 
-<!--
-**Sairaj-25/Sairaj-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  ✨ Thanks for visiting my GitHub profile ✨
+</p>
