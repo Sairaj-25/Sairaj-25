@@ -118,7 +118,7 @@
       <br>VS Code
     </td>
     <td align="center" width="120">
-     <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48"/>
+     <img src="https://cdn.simpleicons.org/github/FFFFFF" width="48"/>
      <br>GitHub
     </td>
     <td align="center" width="96">
