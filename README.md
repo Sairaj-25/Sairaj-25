@@ -7,22 +7,6 @@
   </em>
 </p>
 
----
-
-## 🚀 About Me
-
--
--
-
----
-
-## 🧠 Currently Learning
-- 
-- 
--  
-- 
-
----
 
 ## 🔧 My Favorite Tools & Technologies
 <div align="center">
