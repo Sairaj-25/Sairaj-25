@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sairaj Jadhav</h1>
-<h3 align="center">Full-Stack Developer | Data Science & Machine Learning Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Sairaj </h1>
+
 
 <p align="center">
   <em>
@@ -11,10 +11,8 @@
 
 ## 🚀 About Me
 
-- 💻 Full-stack web developer with strong backend focus  
-- 📊 Exploring **Data Science & Machine Learning**  
-- 🧠 Believe in *practice → failure → improvement*  
-- ⚙️ Love writing clean, scalable, and reliable code  
+-
+-
 
 ---
 
