@@ -114,6 +114,7 @@
 
 
 ## My Github Stats 
+![Sairaj's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Sairaj-25&show_icons=true&theme=transparent)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sairaj-25) 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sairaj-25&show_icons=true) 
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sairaj-25&show_icons=true)
