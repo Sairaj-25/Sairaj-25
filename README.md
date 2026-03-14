@@ -1,11 +1,14 @@
-<h1 align="center">Hi 👋, I'm Sairaj </h1>
+<div align="center">
 
+# Hey, I'm Sairaj 👋
 
-<p align="center">
-  <em>
-    Building real-world projects, learning by doing, and improving every day.
-  </em>
-</p>
+### Python Developer · Data Engineer · AI Engineer 
+
+*I build intelligent systems, scalable data pipelines, and applications that solve real-world problems.*
+
+</div>
+
+---
 
 
 ## 🔧 My Favorite Tools & Technologies
