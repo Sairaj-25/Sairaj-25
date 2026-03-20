@@ -81,16 +81,16 @@
       <br>Azure
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" />
-      <br>GCP
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" />
+      <br>Git
+    </td>
+    <td align="center" width="120">
+     <img src="https://cdn.simpleicons.org/github/FFFFFF" width="48"/>
+     <br>GitHub
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" />
       <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" />
-      <br>Git
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" />
@@ -104,10 +104,7 @@
       <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" />
       <br>VS Code
     </td>
-    <td align="center" width="120">
-     <img src="https://cdn.simpleicons.org/github/FFFFFF" width="48"/>
-     <br>GitHub
-    </td>
+
   </tr>
 </table>
 </div>
