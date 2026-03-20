@@ -21,16 +21,20 @@
       <br>Python
     </td>
     <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=go" width="48" height="48" />
       <br>Go
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" />
-      <br>VS Code
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" />
+      <br>HTML5
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
-      <br>JavaScript
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" />
+      <br>CSS3
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" />
@@ -77,16 +81,16 @@
       <br>Azure
     </td>
     <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" />
-      <br>Git
-    </td>
-    <td align="center" width="120">
-     <img src="https://cdn.simpleicons.org/github/FFFFFF" width="48"/>
-     <br>GitHub
+      <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" />
+      <br>GCP
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" />
       <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" />
+      <br>Git
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" />
@@ -95,7 +99,15 @@
   </tr>
 
   <tr>
-
+    <!-- Tools -->
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" />
+      <br>VS Code
+    </td>
+    <td align="center" width="120">
+     <img src="https://cdn.simpleicons.org/github/FFFFFF" width="48"/>
+     <br>GitHub
+    </td>
   </tr>
 </table>
 </div>
