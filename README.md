@@ -64,9 +64,6 @@
       <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" />
       <br>Postman
     </td>
-  </tr>
-
-  <tr>
     <!-- Cloud & DevOps -->
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" />
@@ -92,10 +89,6 @@
       <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" />
       <br>Linux
     </td>
-  </tr>
-
-  <tr>
-
   </tr>
 </table>
 </div>
